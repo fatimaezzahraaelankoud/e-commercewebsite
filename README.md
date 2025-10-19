@@ -1,0 +1,2 @@
+# e-commerchewebsite
+This project is a modern e-commerce website for selling clothing for women, men, and kids. It offers an intuitive user experience, responsive design, and all the essential e-commerce features — from product browsing to cart and checkout.  
